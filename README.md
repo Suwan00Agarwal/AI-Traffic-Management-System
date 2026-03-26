@@ -1,5 +1,4 @@
-# 🚦 AI-Based Smart Traffic Management System  
-### with Emergency Vehicle Priority
+# 🚦 AI-Based Smart Traffic Management System with Emergency Vehicle Priority
 
 ---
 
